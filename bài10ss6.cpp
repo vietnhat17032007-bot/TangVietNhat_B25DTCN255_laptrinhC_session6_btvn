@@ -30,4 +30,6 @@ int main() {
     for (int i = count - 1; i >= 0; i--) {
         printf("%d ", digits[i]);
     }
+}
+
 
